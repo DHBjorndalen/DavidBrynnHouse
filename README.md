@@ -1,6 +1,6 @@
 # Hi, I'm David Bjorndalen
 
-I'm a product developer with a background in **psychology**, **machine learning**, and **software development**, currently focused on **human-centered systems**. My work sits at the intersection of technology, data, and human well-being.
+I'm a product developer with a background in psychology, machine learning, and software development, currently focused on human-centered systems. My work sits at the intersection of technology, data, and human well-being.
 
 I’m especially passionate about using data and design to improve real-world outcomes through environmental sensing.
 
