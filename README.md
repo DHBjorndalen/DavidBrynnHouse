@@ -13,14 +13,3 @@ I’m especially passionate about using data and design to improve real-world ou
 - **Data**: SQL, Data Visualization, Statistics, Machine Learning
 - **Other**: Git, LaTeX, UX Design, Web Development
 
----
-
-## Connect With Me
-
-- 📍 Based in Baltimore, MD  
-- 💼 [LinkedIn](https://www.linkedin.com/in/david-bjorndalen-792b7961/)
-- 💻 [GitHub](https://github.com/davidbjorndalen)  
-- 📬 Email: [dahous1@umbc.edu](mailto:dahous1@umbc.edu)
-
----
-
